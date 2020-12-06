@@ -1,20 +1,20 @@
 {
-    "name": "Zelenka",
-    "short_name": "Zelenka",
-    "icons": [
-        {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#8a6a6a",
-    "background_color": "#8a6a6a",
-    "start_url": "https://zelenka-spb.ru",
-    "display": "standalone"
+  "name": "Zelenka",
+  "short_name": "Zelenka",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#8a6a6a",
+  "background_color": "#8a6a6a",
+  "start_url": "https://zelenka-sbor.ru",
+  "display": "standalone"
 }
