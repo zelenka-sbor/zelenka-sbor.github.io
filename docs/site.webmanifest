@@ -1,20 +1,60 @@
----(---{
-  "name": "Zelenka",
-  "short_name": "Zelenka",
+{
+  "name": "Проект «Зелёнка»",
+  "short_name": "Зелёнка",
+  "start_url": ".",
+  "categories": ["lifestyle", "ecology"],
+  "lang": "ru",
+  "display": "minimal-ui",
+  "theme_color": "#323330",
+  "background_color": "#323330",
   "icons": [
+    {
+      "src": "/maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-mono.svg",
+      "sizes": "400x400",
+      "type": "image/svg+xml",
+      "purpose": "monochrome"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
       "type": "image/png"
-    }
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }    
   ],
-  "theme_color": "#323330",
-  "background_color": "#323330",
-  "start_url": "{{ " / " | absolute_url }}",
-  "display": "standalone"
-})
+  "related_applications": []
+}
