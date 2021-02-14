@@ -1,0 +1,12 @@
+/* TEAM */
+    Web developer: Roman Orlovsky
+    GitHub: https://github.com/orl0
+    Location: Saint-Petersburg, Russia.
+
+/* SITE */
+    Last update: 2021-02-14
+    Timezone: Europe/Moscow
+    Localization: ru_RU
+    Site generator: Jekyll 4 (https://jekyllrb.com/)
+    Styles & layout: Bulma (https://bulma.io/)
+    Icons: Font Awesome 5 (https://fontawesome.com/)
