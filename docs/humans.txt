@@ -4,7 +4,7 @@
     Location: Saint-Petersburg, Russia.
 
 /* SITE */
-    Last update: 2021-02-21
+    Last update: 2021-02-26
     Timezone: Europe/Moscow
     Localization: ru_RU
     Site generator: Jekyll 4 (https://jekyllrb.com/)
